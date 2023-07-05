@@ -1,12 +1,19 @@
 # AirLine
-Created AIRLINE RESERVATION PROJECT using Java and sql
+Created "AIRLINE RESERVATION PROJECT"  using Java and sql
 
-The Purpose of Airline Reservation project is to Book Flight ticket and get that ticket.
-By Login into Project we can Book Ticket.
-Admin can login and Add Flights.
-we can also Search Customer
+The web based “Airline Reservation System” project is  enables the customer to do the things such as search for airline flights for two travel cities on a specified date, choose a flight based on the details, reservation of flight .
 
-For that we need to create Admin page, login page, Main page and we have Customer,Flight,Ticket,Admin menus in Main Page
+The system allows the airline passenger to search for flights that are available between the two travel cities, namely the “Departure city” and “Arrival city” for a particular departure and arrival dates. The system displays all the flight’s details such as flight no, name, price and duration of journey etc.
+
+After search the system display list of available flights and allows customer to choose a particular flight.The system allows the passenger to book a seat.
+
+To book a flight the system asks the customer to enter his details such as name, address, city, state, National Id,passportid and contact number. Then it checks the validity and book the flight and update the airline database and user database.
+
+Admin Can Add flight and also Serach for customer.
+
+#Basic Pages to Design Project
+
+we need to create Admin page, login page, Main page and we have Customer,Flight,Ticket,Admin menus in Main Page
 
 Customer have menu items like Add customer and Search Customer
 
